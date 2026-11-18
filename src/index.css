@@ -1,3 +1,6 @@
+@import "tailwindcss";
+
+
 @layer base {
   :root {
     --font-display: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
