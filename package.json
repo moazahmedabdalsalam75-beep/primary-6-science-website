@@ -4,8 +4,10 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "build": "npm install --legacy-peer-deps && vite build",
-    "preview": "vite preview",
+  "build": "vite build",
+  "preview": "vite preview"
+}
+
     "clean": "rm -rf dist server.js",
     "lint": "tsc --noEmit"
   },
